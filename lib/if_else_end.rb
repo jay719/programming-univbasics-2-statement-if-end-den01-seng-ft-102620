@@ -1,2 +1,3 @@
 # Write your solution here
-time.now
+current_time = Time.now 
+if current_time == evn
