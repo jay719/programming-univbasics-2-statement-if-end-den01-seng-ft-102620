@@ -4,4 +4,5 @@ current_time = Time.now
 if current_time == even?
   puts "Even!"
 else current_time == odd?
-  puts "Od!"
+  puts "Odd!"
+end
